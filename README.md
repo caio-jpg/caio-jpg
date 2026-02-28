@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mim  
-- 🌱 Estudando e praticando **HTML, CSS, JavaScript, PHP, Python e C**  
+- 🌱 Estudando e praticando **HTML, CSS, JavaScript, PHP, Python, C, React, Typescript**  
 - 🎯 Meta: me tornar um desenvolvedor **Full Stack** capaz de criar soluções completas e funcionais  
 - 💡 Gosto de aprender com desafios reais e colocar a mão na massa  
 - 🤝 Aberto a colaborações, projetos e trocas de conhecimento com outros desenvolvedores  
@@ -23,6 +23,11 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </div>
 
@@ -30,7 +35,7 @@
 
 ## 💼 Projetos em destaque  
 
-### 🎮 CRUD de Jogadores CS2 e Sistema de clientes 
+### 🎮 CRUD de Jogadores e Sistema de clientes 
 Um painel administrativo simples feito em **PHP e MySQL** para cadastrar e gerenciar jogadores de CS2.  
 📂 [Ver projeto](https://github.com/caio-jpg/CRUD1)  
 
