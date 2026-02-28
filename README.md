@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Caio Vinicius  
 
-🎓 Estudante do 2º período de Ciência da Computação, apaixonado por tecnologia, inovação e desenvolvimento de software.  
+🎓 Estudante do 3º período de Ciência da Computação, apaixonado por tecnologia, inovação e desenvolvimento de software.  
 💻 Atualmente focado em aprimorar minhas habilidades em **front-end e back-end**, construindo projetos práticos e aprendendo novas ferramentas.  
 
 ---
