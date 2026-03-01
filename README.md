@@ -47,6 +47,7 @@ Um painel administrativo simples feito em **PHP e MySQL** para cadastrar e geren
 📧 **Email:** caiolsilva10@gmail.com  
 🌍 **Localização:** Brasil  
 🔗 [GitHub](https://github.com/caio-jpg)
+💻 [Linkedin](https://www.linkedin.com/in/caio-vinicius123/?isSelfProfile=true)
 
 ---
 
